@@ -108,7 +108,7 @@ further than MyWebClass! Our platform provides an integrated learning experience
 business processes to provide realistic scenarios for students to learn technology in a hands-on real world environment.
 
 ## Agile Project Documentation
-
+5. version control system
 ### Templates - Modify these as necessary
 
 * [Theme Template](documentation/templates/theme/theme_template.md)
