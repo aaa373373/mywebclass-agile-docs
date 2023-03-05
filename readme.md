@@ -141,5 +141,3 @@ review this effectiveness before the next iteration of the project.
 |-----------------|--------------|----------|
 | 0.1.x           | TBD          | TBD      |
 
-
-
