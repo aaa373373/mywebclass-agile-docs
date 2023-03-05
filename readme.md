@@ -111,7 +111,7 @@ business processes to provide realistic scenarios for students to learn technolo
 1. research and usability testing
 2. seo strategies
 3. website template
-
+4. communication
 ### Templates - Modify these as necessary
 
 * [Theme Template](documentation/templates/theme/theme_template.md)
