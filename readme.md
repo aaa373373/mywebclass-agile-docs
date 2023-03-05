@@ -109,6 +109,7 @@ business processes to provide realistic scenarios for students to learn technolo
 
 ## Agile Project Documentation
 1. research and usability testing
+2. seo strategies
 
 ### Templates - Modify these as necessary
 
