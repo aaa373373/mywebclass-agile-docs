@@ -108,6 +108,7 @@ further than MyWebClass! Our platform provides an integrated learning experience
 business processes to provide realistic scenarios for students to learn technology in a hands-on real world environment.
 
 ## Agile Project Documentation
+2. seo strategies
 
 ### Templates - Modify these as necessary
 
